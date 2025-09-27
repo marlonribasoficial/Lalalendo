@@ -9,7 +9,11 @@ Esse é meu segundo projeto desenvolvido durante o terceiro challenge do Apple D
 - **Swift** e **SwiftUI**
 
 ## 👥 Equipe
-Este projeto foi feito com a colaboração de: **Camille Luppi**, **Gabriel Gardini**, **Jordana Santos**, **Sofia Valverde**.
+Este projeto foi feito com a colaboração de:
+- **Camille Luppi**
+- **Gabriel Gardini**
+- **Jordana Santos**
+- **Sofia Valverde**
 
 ## 🔗 Repositório
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](https://github.com/GabrielGardini/lalalendo)
