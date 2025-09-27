@@ -1,5 +1,4 @@
 # Lalalendo
-> Um app de leitura interativa para crianças
 Esse é meu segundo projeto desenvolvido durante o terceiro challenge do Apple Developer Academy.
 
 ## 🚀 Sobre o Projeto
