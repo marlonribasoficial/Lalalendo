@@ -13,4 +13,4 @@ Esse é meu segundo projeto desenvolvido durante o terceiro challenge do Apple D
 Este projeto foi feito com a colaboração de: **Camille Luppi**, **Gabriel Gardini**, **Jordana Santos**, **Sofia Valverde**.
 
 ## 🔗 Repositório
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](URL_DO_SEU_REPOSITORIO_AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](https://github.com/GabrielGardini/lalalendo)
