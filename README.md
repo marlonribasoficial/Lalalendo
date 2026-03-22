@@ -1,8 +1,7 @@
 # Lalalendo
 
 ![Status](https://img.shields.io/badge/status-concluído-8A2BE2?style=for-the-badge)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-UI-8A2BE2?style=for-the-badge&logo=apple)
-![UIKit](https://img.shields.io/badge/UIKit-iOS-8A2BE2?style=for-the-badge&logo=apple)
+![UI](https://img.shields.io/badge/UI-SwiftUI%20%2B%20UIKit-8A2BE2?style=for-the-badge&logo=apple)
 
 ---
 
