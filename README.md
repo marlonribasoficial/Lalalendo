@@ -1,6 +1,6 @@
 # Lalalendo
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-8A2BE2?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-concluído-8A2BE2?style=for-the-badge)
 ![Swift](https://img.shields.io/badge/Swift-5-orange?style=for-the-badge&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-UI-8A2BE2?style=for-the-badge&logo=apple)
 
@@ -17,13 +17,13 @@ Este projeto foi criado durante o terceiro challenge do **Apple Developer Academ
 ## 🖼️ Preview do App
 
 ### 📱 Tela 1
-![Tela 1](images/tela1.png)
+![Tela 1](tela1.png)
 
 ### 📱 Tela 2
-![Tela 2](images/tela2.png)
+![Tela 2](tela2.png)
 
 ### 📱 Tela 3
-![Tela 3](images/tela3.png)
+![Tela 3](tela3.png)
 
 ---
 
