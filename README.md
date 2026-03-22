@@ -18,13 +18,13 @@ Este projeto foi criado durante o terceiro challenge do **Apple Developer Academ
 ## 🖼️ Preview do App
 
 ### 📱 Tela 1
-![Tela 1](tela1.png)
+![Tela 1](telaInicial.png)
 
 ### 📱 Tela 2
-![Tela 2](tela2.png)
+![Tela 2](telaLivro.png)
 
 ### 📱 Tela 3
-![Tela 3](tela3.png)
+![Tela 3](telaFinal.png)
 
 ---
 
