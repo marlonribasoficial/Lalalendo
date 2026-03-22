@@ -28,6 +28,15 @@ Este projeto foi criado durante o terceiro challenge do **Apple Developer Academ
 
 ---
 
+## ✨ Features
+
+- 📖 Narrativa interativa que se adapta às escolhas do usuário
+- 🎧 Suporte a VoiceOver para acessibilidade
+- 🎨 Interface amigável, intuitiva e visualmente atrativa
+- 🧩 Estímulo ao engajamento e à progressão na leitura
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - 🟣 **Swift**
