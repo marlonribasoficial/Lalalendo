@@ -1,5 +1,5 @@
 # Lalalendo
-Esse é meu segundo projeto desenvolvido durante o terceiro challenge do Apple Developer Academy.
+Esse é meu segundo projeto desenvolvido durante o terceiro challenge do **Apple Developer Academy**.
 
 ## 🚀 Sobre o Projeto
 "**Lalalendo**" se trata de um app de leitura interativa para crianças com intuito de tornar a leitura divertida e atrativa.
